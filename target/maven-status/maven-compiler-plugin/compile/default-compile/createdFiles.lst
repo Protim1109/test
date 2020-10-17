@@ -1,0 +1,4 @@
+com\qa\flipkart\pages\HomePage.class
+com\qa\flipkart\util\TestUtil.class
+com\qa\flipkart\base\TestBase.class
+com\qa\flipkart\pages\HomeAppliancesPage.class

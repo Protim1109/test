@@ -1,0 +1,46 @@
+2020-08-06 20:46:53,540  INFO [main] TestRunner:30 - The test InvalidLogin got started
+2020-08-06 20:46:55,577  INFO [main] TestRunner:44 - The test InvalidLogin got failed
+2020-08-06 20:46:57,860  INFO [main] TestRunner:30 - The test validLogin got started
+2020-08-06 20:47:02,395  INFO [main] TestRunner:36 - The test validLogin got passed
+2020-08-06 20:47:02,421  INFO [main] TestRunner:30 - The test verifyPageTitleTest got started
+2020-08-06 20:47:02,465  INFO [main] TestRunner:36 - The test verifyPageTitleTest got passed
+2020-08-06 20:47:02,484  INFO [main] TestRunner:30 - The test clickOnRequiredOptionTest got started
+2020-08-06 20:47:09,239  INFO [main] TestRunner:36 - The test clickOnRequiredOptionTest got passed
+2020-08-06 20:47:09,255  INFO [main] TestRunner:30 - The test titleVerificationTest got started
+2020-08-06 20:47:09,279  INFO [main] TestRunner:36 - The test titleVerificationTest got passed
+2020-08-06 20:47:09,293  INFO [main] TestRunner:30 - The test firstProductFilter got started
+2020-08-06 20:48:44,019  INFO [main] TestRunner:30 - The test InvalidLogin got started
+2020-08-06 20:48:45,180  INFO [main] TestRunner:44 - The test InvalidLogin got failed
+2020-08-06 20:48:47,464  INFO [main] TestRunner:30 - The test validLogin got started
+2020-08-06 20:48:51,840  INFO [main] TestRunner:36 - The test validLogin got passed
+2020-08-06 20:48:51,914  INFO [main] TestRunner:30 - The test verifyPageTitleTest got started
+2020-08-06 20:48:52,054  INFO [main] TestRunner:36 - The test verifyPageTitleTest got passed
+2020-08-06 20:48:52,069  INFO [main] TestRunner:30 - The test clickOnRequiredOptionTest got started
+2020-08-06 20:48:59,039  INFO [main] TestRunner:36 - The test clickOnRequiredOptionTest got passed
+2020-08-06 20:48:59,056  INFO [main] TestRunner:30 - The test titleVerificationTest got started
+2020-08-06 20:48:59,175  INFO [main] TestRunner:36 - The test titleVerificationTest got passed
+2020-08-06 20:48:59,187  INFO [main] TestRunner:30 - The test firstProductFilter got started
+2020-08-06 20:49:02,743  INFO [main] TestRunner:36 - The test firstProductFilter got passed
+2020-08-06 20:49:02,761  INFO [main] TestRunner:30 - The test selectFirstProduct got started
+2020-08-06 20:49:10,703  INFO [main] TestRunner:36 - The test selectFirstProduct got passed
+2020-08-06 20:49:10,714  INFO [main] TestRunner:30 - The test refreshSearchResult got started
+2020-08-06 20:49:12,707  INFO [main] TestRunner:36 - The test refreshSearchResult got passed
+2020-08-06 20:49:12,735  INFO [main] TestRunner:30 - The test secondProductFilter got started
+2020-08-06 20:49:18,106  INFO [main] TestRunner:36 - The test secondProductFilter got passed
+2020-08-06 20:49:18,119  INFO [main] TestRunner:30 - The test selectSecondProduct got started
+2020-08-06 20:49:26,635  INFO [main] TestRunner:36 - The test selectSecondProduct got passed
+2020-08-06 20:49:26,670  INFO [main] TestRunner:30 - The test getTemporaryResult got started
+2020-08-06 20:49:28,997  INFO [main] TestRunner:36 - The test getTemporaryResult got passed
+2020-08-06 20:49:29,010  INFO [main] TestRunner:30 - The test thirdProductFilter got started
+2020-08-06 20:49:37,334  INFO [main] TestRunner:36 - The test thirdProductFilter got passed
+2020-08-06 20:49:37,350  INFO [main] TestRunner:30 - The test selectThirdProduct got started
+2020-08-06 20:49:46,633  INFO [main] TestRunner:36 - The test selectThirdProduct got passed
+2020-08-06 20:49:46,646  INFO [main] TestRunner:30 - The test getFinalCartDetails got started
+2020-08-06 20:49:48,957  INFO [main] TestRunner:36 - The test getFinalCartDetails got passed
+2020-08-06 20:49:48,968  INFO [main] TestRunner:30 - The test getFinalResult got started
+2020-08-06 20:49:50,575  INFO [main] TestRunner:36 - The test getFinalResult got passed
+2020-08-06 20:49:51,899 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-08-06 20:49:51,904 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-08-06 20:49:51,912 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-08-06 20:49:51,917 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-08-06 20:49:51,919 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/anuplab/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
